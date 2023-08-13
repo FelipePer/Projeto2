@@ -71,7 +71,7 @@ h2::before{
     font-size: 80px;
     font-weight: 700;
     letter-spacing: 8px;
-    margin-bottom: 10px;
+    padding-bottom: 10px;
     background: #f3ebeb;
     position: relative;
     animation: text 2s 1;
@@ -88,7 +88,7 @@ h2::before{
     font-size: 30px;
     font-weight: 700;
     letter-spacing: 8px;
-    margin-bottom: 10px;
+    padding-bottom: 10px;
     background: #f3ebeb;
     margin-top: 10px;
 }
