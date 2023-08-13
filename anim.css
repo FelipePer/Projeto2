@@ -66,6 +66,8 @@ h2::before{
     display: block;
 }
 .text {
+    margin-top: 400px;
+    height: 100px;
     color: black;
     font-family: 'Poppins', sans-serif;
     font-size: 80px;
@@ -77,6 +79,7 @@ h2::before{
     animation: text 2s 1;
 }
 .text1 {
+    height: 100px;
     font-family: 'Poppins', sans-serif;
     font-size: 30px;
     color: #1B6F14;
@@ -90,7 +93,7 @@ h2::before{
     letter-spacing: 8px;
     margin-bottom: 10px;
     background: #f3ebeb;
-    margin-top: 10px;
+    margin-top: 450px;
 }
 
 @keyframes text {
