@@ -88,7 +88,7 @@ h2::before{
     font-size: 30px;
     font-weight: 700;
     letter-spacing: 8px;
-    padding-bottom: 10px;
+    margin-bottom: 10px;
     background: #f3ebeb;
     margin-top: 10px;
 }
@@ -134,10 +134,10 @@ h2::before{
         
     }
     .text {
-        font-size: 40px;
+        font-size: 50px;
     }
     .text1 {
-        font-size: 15px;
+        font-size: 20px;
         height: 400px;
     }
     .text2 {
