@@ -155,16 +155,16 @@ h2::before{
         0%
     {
         color: #f3ebeb;
-        margin-bottom: -15%;
+        margin-bottom: -20%;
     }
     30%
         {
             letter-spacing: 5px;
-            margin-bottom: -15%;
+            margin-bottom: -20%;
         }
         70%{
             letter-spacing: 0px;
-            margin-bottom: -15%;
+            margin-bottom: -20%;
         }
    } 
    @keyframes text2 {
